@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Курсы валют России</string>
+    <string name="tab_text_1">Курс валют</string>
+    <string name="tab_text_2">Взять кредит</string>
+</resources>
