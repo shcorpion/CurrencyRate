@@ -1,7 +1,8 @@
-package com.example.currencyrate;
+package ru.mob.currencyrate;
 
 import android.os.Bundle;
 
+import ru.mob.currencyrate.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
@@ -9,11 +10,9 @@ import com.google.android.material.tabs.TabLayout;
 import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 
-import com.example.currencyrate.ui.main.SectionsPagerAdapter;
+import ru.mob.currencyrate.ui.main.SectionsPagerAdapter;
 
 public class MainActivity extends AppCompatActivity {
 

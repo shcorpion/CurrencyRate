@@ -1,7 +1,4 @@
-package com.example.currencyrate.ui.main;
-
-import android.content.Context;
-import android.widget.TextView;
+package ru.mob.currencyrate.ui.main;
 
 import androidx.arch.core.util.Function;
 import androidx.lifecycle.LiveData;

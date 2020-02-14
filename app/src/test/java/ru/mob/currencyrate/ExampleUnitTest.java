@@ -1,4 +1,4 @@
-package com.example.currencyrate;
+package ru.mob.currencyrate;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.currencyrate.ui.main;
+package ru.mob.currencyrate.ui.main;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.currencyrate.R;
+import ru.mob.currencyrate.R;
 
 /**
  * A placeholder fragment containing a simple view.
